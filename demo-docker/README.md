@@ -9,7 +9,7 @@ Dans cette démo, une image sera créée avec une application html utilisant ngn
 ## Créer un compte dans Docker hub
 Docker hub est un Registry public où se trouvent plusieurs images de Docker avec différentes technologies installées. L’image utilisée dans cette démo est une image publique qui se trouve dans Docker hub. Vous devez créer un compte https://hub.docker.com/ pour publier l’image résultante.
 
-## Authentifier votre Docker hube
+## Authentifier votre Docker hub
 ```sh
 # Entrer l’utilisateur et le mot de passe lorsque demandé
 $ Docker login
